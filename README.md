@@ -1,3 +1,10 @@
 # BTHosting Foundation Template
 
-Web hosting template built with [Foundation-cli](https://foundation.zurb.com/sites/docs/installation.html) and [Sass](http://sass-lang.com/).
+Simple static site using:
+- npm
+- Foundation-cli
+- Sass
+
+Based on BTHosting of Brad Traversy:
+- https://github.com/bradtraversy/bthosting_foundation
+- https://www.youtube.com/watch?v=aQuVW55zhmU&list=PLillGF-RfqbZmD0PK6TRJwEd5GHM8f7om
