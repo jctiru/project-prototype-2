@@ -1,4 +1,6 @@
-# BTHosting Foundation Template
+# project-prototype-2
+### BTHosting Foundation Template
+https://jctiru.github.io/project-prototype-2/
 
 Simple static site using:
 - npm
